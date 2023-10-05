@@ -1,7 +1,7 @@
-### Oie eu sou o Nicolas Bastos, programador  ✨
+### Oie eu sou o Nicolas Bastos, programador FullStack, mais focado no Front-End ✨
 
 ##
-![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=dracula)
+![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=tokyonight)
 <div style="display: inline_block">
 <img height="30" width="40" alt='js' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
 <img height="30" width="40" alt='HTML'  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
