@@ -3,12 +3,6 @@
 ##
 ![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=tokyonight)
 <div style="display: inline_block">
-<img height="30" width="40" alt='js' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg'>
-<img height="30" width="40" alt='HTML'  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
-<img height="30" width="40" alt='css'  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
-<img height="30" width="40"  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
-<img height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg'>
-<img height="30" width="40"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg'>
 <img src="https://skillicons.dev/icons?i=java,c,cpp,linux,javascript,typescript,html,css,react,figma" />
 </div>
 
