@@ -3,7 +3,7 @@
 ##
 ![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=tokyonight)
 <div style="display: inline_block">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,linux,javascript,typescript,html,css,react,figma" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,linux,delphi,javascript,typescript,html,css,react,figma" />
 </div>
 
  ##
