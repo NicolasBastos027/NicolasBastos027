@@ -1,4 +1,4 @@
-### Oie eu sou o Nicolas Bastos, programador FullStack, mais focado no Front-End ✨
+### Oie eu sou o Nicolas Bastos, programador FullStack, atualmente estou focado em aprender Java✨
 
 ##
 ![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=tokyonight)
