@@ -2,6 +2,7 @@
 
 ##
 ![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=tokyonight)
+
 <div style="display: inline_block">
 <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,linux,git,javascript,typescript,html,css,react,figma" />
 </div>
@@ -13,5 +14,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3yn05pnqr1nzvrgzzzdcjgnzt?si=bc1f1ec0ea68424e)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nickdrawn)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBastos027&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBastos027&hide_progress=true)
