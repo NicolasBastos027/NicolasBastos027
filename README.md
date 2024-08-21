@@ -14,3 +14,5 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nickdrawn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBastos027&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/nicolasbastos027?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
