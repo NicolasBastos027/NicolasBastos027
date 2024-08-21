@@ -15,4 +15,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBastos027&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NicolasBastos027)](https://github.com/anuraghazra/github-readme-stats)
