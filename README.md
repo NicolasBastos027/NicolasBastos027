@@ -1,7 +1,6 @@
 ### Oie eu sou o Nicolas Bastos, programador FullStack, atualmente estou focado em aprender Java✨
 
 ##
-![Nicolas Bastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasBastos027&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block">
 <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,linux,git,javascript,typescript,html,css,react,figma" />
