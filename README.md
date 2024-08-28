@@ -1,4 +1,4 @@
-### Oie eu sou o Nicolas Bastos, programador FullStack, atualmente estou focado em aprender Java✨
+### Oie eu sou o Nicolas Bastos, programador Full Stack, atualmente estou focado em aprender Java✨
 
 ##
 
