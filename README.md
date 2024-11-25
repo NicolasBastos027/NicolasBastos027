@@ -3,7 +3,7 @@
 ##
 
 <div style="display: inline_block">
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,linux,git,javascript,typescript,html,css,react,figma" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,unity,linux,git,javascript,typescript,html,css,react,figma" />
 </div>
 
  ##
